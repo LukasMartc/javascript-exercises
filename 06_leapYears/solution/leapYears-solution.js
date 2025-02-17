@@ -13,4 +13,6 @@ const leapYears = function (year) {
   }
 };
 
+console.log(leapYears(4))
+
 module.exports = leapYears;
